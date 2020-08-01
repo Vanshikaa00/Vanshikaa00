@@ -1,4 +1,4 @@
-### Hello there, I am Vanshika 🦋✨
+### Hello there, I am [Vanshika](https://vanshikaa00.github.io/myPortfolio/) 🦋✨
 
 <!--
 **Vanshikaa00/Vanshikaa00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 
 ![Vanshika's github stats](https://github-readme-stats.vercel.app/api?username=Vanshikaa00&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues&line_height=31)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikaa00&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Vanshikaa00/github-readme-stats)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vanshikaa00.aagarwal1012)
