@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on Open Source Projects  
 
-- 💬 Ask me about anything here  
+- 💬 Ask me about anything [here](https://github.com/Vanshikaa00/Vanshikaa00/issues)  
 
 
 
@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vanshikaa00.aagarwal1012)
+
+NOTE: These awesome dynamically generated stats can be found at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
