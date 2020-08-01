@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ![Vanshika's github stats](https://github-readme-stats.vercel.app/api?username=Vanshikaa00&count_private=true&show_icons=true&theme=onedark&hide=stars,issues&line_height=31)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikaa00&layout=compact&show_icons=true&theme=onedark)](https://github.com/Vanshikaa00/github-readme-stats)
 
-<br/>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vanshikaa00)
 
-<br/>
+
 
 NOTE: These awesome dynamically generated stats can be found at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
