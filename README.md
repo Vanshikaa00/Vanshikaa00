@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 
 
-![Vanshika's github stats](https://github-readme-stats.vercel.app/api?username=Vanshikaa00&count_private=true&show_icons=true&theme=radical&hide=stars,issues&line_height=31)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikaa00&layout=compact&show_icons=true&theme=radical)](https://github.com/Vanshikaa00/github-readme-stats)
+![Vanshika's github stats](https://github-readme-stats.vercel.app/api?username=Vanshikaa00&count_private=true&show_icons=true&theme=synthwave&hide=stars,issues&line_height=31)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikaa00&layout=compact&show_icons=true&theme=synthwave)](https://github.com/Vanshikaa00/github-readme-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vanshikaa00)
 
