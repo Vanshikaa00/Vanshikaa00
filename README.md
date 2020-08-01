@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vanshikaa00.aagarwal1012)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vanshikaa00)
 
 NOTE: These awesome dynamically generated stats can be found at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
