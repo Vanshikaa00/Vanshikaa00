@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 😄 Pronouns: she/her 
 
-
+-->
 
 - 🌱 I’m currently learning React 
 
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 
 NOTE: Check these awesome dynamically generated stats at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
--->
+
