@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikaa00&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Vanshikaa00/github-readme-stats)
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vanshikaa00)
+<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vanshikaa00)-->
 
 
 
