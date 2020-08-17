@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about anything [here](https://github.com/Vanshikaa00/Vanshikaa00/issues)  
 
-- Besides 👩🏻‍💻 programming, i like to eat delicious food 🧁🍜🍕, paint 🎨🖌️ and read books 📚
+<hr>
+Besides 👩🏻‍💻 programming, i like to eat delicious food 🧁🍜🍕, paint 🎨🖌️ and read books 📚
 
 <br/>
 
