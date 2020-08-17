@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about anything [here](https://github.com/Vanshikaa00/Vanshikaa00/issues)  
 
+- Besides 👩🏻‍💻 programming, i like to eat delicious food 🧁🍜🍕, paint 🎨🖌️ and read books 📚
+
 <br/>
 
 ![Vanshika's github stats](https://github-readme-stats.vercel.app/api?username=Vanshikaa00&count_private=true&theme=tokyonight&show_icons=true&hide=stars,issues&line_height=31)
