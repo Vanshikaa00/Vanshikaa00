@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 - 😄 Pronouns: she/her 
-
+Besides 👩🏻‍💻 programming, i like to eat delicious food 🧁🍜🍕, paint 🎨🖌️ and read books 📚
 -->
 
 - 🌱 I’m currently learning React 
@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about anything [here](https://github.com/Vanshikaa00/Vanshikaa00/issues)  
 
-<hr>
-Besides 👩🏻‍💻 programming, i like to eat delicious food 🧁🍜🍕, paint 🎨🖌️ and read books 📚
 
 <br/>
 
