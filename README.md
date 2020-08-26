@@ -17,7 +17,7 @@ Besides 👩🏻‍💻 programming, i like to eat delicious food 🧁🍜🍕, 
 
 - 👯 I’m looking to collaborate on Open Source Projects  
 
-- 💬 Ask me about anything [here](https://github.com/Vanshikaa00/Vanshikaa00/issues)  
+- 💬 Ask me anything [here](https://github.com/Vanshikaa00/Vanshikaa00/issues)  
 
 
 <br/>
