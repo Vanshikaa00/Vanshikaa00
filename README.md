@@ -22,8 +22,8 @@ Besides 👩🏻‍💻 programming, i like to eat delicious food 🧁🍜🍕, 
 
 <br/>
 
-![Vanshika's github stats](https://github-readme-stats.vercel.app/api?username=Vanshikaa00&count_private=true&theme=tokyonight&show_icons=true&hide=stars,issues&line_height=31)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikaa00&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Vanshikaa00/github-readme-stats)
+![Vanshika's github stats](https://github-readme-stats.vercel.app/api?username=Vanshikaa00&count_private=true&issues=true&theme=tokyonight&show_icons=true&hide=stars&line_height=31)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikaa00&line_height=31&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Vanshikaa00/github-readme-stats)
 
 
 <!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vanshikaa00)-->
