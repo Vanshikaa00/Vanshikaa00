@@ -19,7 +19,7 @@ Besides 👩🏻‍💻 programming, i like to eat delicious food 🧁🍜🍕, 
 
 - 💬 Ask me anything [here](https://github.com/Vanshikaa00/Vanshikaa00/issues)  
 
-
+- 🖋️ Check out my Codepen [here](https://codepen.io/Jelilicent)
 <br/>
 
 ![Vanshika's github stats](https://github-readme-stats.vercel.app/api?username=Vanshikaa00&count_private=true&issues=true&theme=tokyonight&show_icons=true&hide=stars&line_height=24)
