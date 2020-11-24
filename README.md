@@ -15,11 +15,12 @@ Besides 👩🏻‍💻 programming, i like to eat delicious food 🧁🍜🍕, 
 
 - 📜 Pursuing Bachelor of Engineering in Computer Science  
 
+- 🖋️ Check out my work on Codepen [here](https://codepen.io/Jelilicent)
+
 - 👯 I’m looking to collaborate on Open Source Projects  
 
 - 💬 Ask me anything [here](https://github.com/Vanshikaa00/Vanshikaa00/issues)  
 
-- 🖋️ Check out my work on Codepen [here](https://codepen.io/Jelilicent)
 <br/>
 
 ![Vanshika's github stats](https://github-readme-stats.vercel.app/api?username=Vanshikaa00&count_private=true&issues=true&theme=tokyonight&show_icons=true&hide=stars&line_height=24)
@@ -27,7 +28,7 @@ Besides 👩🏻‍💻 programming, i like to eat delicious food 🧁🍜🍕, 
 
 
 <!--[![Vanshika's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/vanshikaa00)-->
-<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vanshikaa00)-->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vanshikaa00)
 
 
 
