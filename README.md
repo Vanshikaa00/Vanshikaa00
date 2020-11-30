@@ -1,4 +1,4 @@
-# Hello there, I am [Vanshika](https://vanshikaa00.github.io/myPortfolio/) 🦋✨  
+# Hello there, I am Vanshika 🦋✨  
 
 <!--
 **Vanshikaa00/Vanshikaa00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
