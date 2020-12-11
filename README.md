@@ -13,9 +13,7 @@ Besides 👩🏻‍💻 programming, i like to eat delicious food 🧁🍜🍕, 
 
 - 🌱 I’m currently learning React 
 
-- 📜 Pursuing Bachelor of Engineering in Computer Science  
-
-- 🖋️ Check out my work on Codepen [here](https://codepen.io/Jelilicent)
+- 📜 Pursuing Bachelor of Engineering in Computer Science engineering
 
 - 👯 I’m looking to collaborate on Open Source Projects  
 
