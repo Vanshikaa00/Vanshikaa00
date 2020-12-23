@@ -15,6 +15,8 @@ Besides 👩🏻‍💻 programming, i like to eat delicious food 🧁🍜🍕, 
 
 - 📜 Pursuing Bachelor of Engineering in Computer Science engineering
 
+- 🖌️ Check out my work on [codepen](https://codepen.io/Jelilicent) here
+
 - 👯 I’m looking to collaborate on Open Source Projects  
 
 - 💬 Ask me anything [here](https://github.com/Vanshikaa00/Vanshikaa00/issues)  
