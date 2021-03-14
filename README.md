@@ -15,7 +15,7 @@ Besides 👩🏻‍💻 programming, i like to eat delicious food 🧁🍜🍕, 
 
 - 📜 Pursuing Bachelor of Engineering in Computer Science engineering
 
-- 🖌️ Check out my work on [codepen](https://codepen.io/Jelilicent) and [dev.to](https://dev.to/jelilicent) here
+- 🖌️ Check out my work on [codepen](https://codepen.io/Jelilicnt) and [dev.to](https://dev.to/jelilcent) here
 
 - 👯 I’m looking to collaborate on Open Source Projects  
 
