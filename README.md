@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 Besides 👩🏻‍💻 programming, i like to eat delicious food 🧁🍜🍕, paint 🎨🖌️ and read books 📚
 -->
 
-- 🌱 I’m currently learning React 
+<!-- - 🌱 I’m currently learning React 
 
 - 📜 Pursuing Bachelor of Engineering in Computer Science engineering
 
@@ -19,7 +19,7 @@ Besides 👩🏻‍💻 programming, i like to eat delicious food 🧁🍜🍕, 
 
 - 👯 I’m looking to collaborate on Open Source Projects  
 
-- 💬 Ask me anything [here](https://github.com/Vanshikaa00/Vanshikaa00/issues)  
+- 💬 Ask me anything [here](https://github.com/Vanshikaa00/Vanshikaa00/issues)   -->
 
 <br/>
 
